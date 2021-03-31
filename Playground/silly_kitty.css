@@ -24,6 +24,7 @@ body {
 #container {
 	position: relative;
 	width: 600px;
+	height: 500px;
 	margin: auto;
 	padding-top: 340px;
     padding-bottom: 38px;
@@ -128,6 +129,7 @@ body {
 	width: 200px;
 	height: 400px;
 	margin: 120px auto 0;
+	bottom: 0;
 }
 
 .purr {
