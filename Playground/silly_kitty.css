@@ -349,7 +349,8 @@ body {
 }
 
 footer {
-    position: absolute;
+	margin-bottom: 100px;
+	position: absolute;
     bottom: 0;
     left: 0;
     right: 0;
