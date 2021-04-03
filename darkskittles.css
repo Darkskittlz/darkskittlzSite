@@ -630,7 +630,7 @@ a:hover {
 	.footer video{
 	/* The file size of this background image is 93% smaller
 	to improve page load speed on mobile internet connections */
-  display: block;
+  display: inline-block;
   height: 300px;
   width: 300px;
   margin: 0px auto;
