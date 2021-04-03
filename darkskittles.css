@@ -407,6 +407,25 @@ body {
   margin-bottom: -50px;
 }
 
+@media only screen and (max-width: 767px) {
+  .chatroomGrid {
+    display: grid;
+    width: 1260px;
+    overflow: hidden;
+  }
+  
+  .chatRoom {
+    display: grid;
+    width: 480px;
+    height: 200px;
+  }
+  
+  .discordChat {
+    display: grid;
+    width: 260px;
+  }
+}
+
 
 .contact {
   border: 2px solid black;
